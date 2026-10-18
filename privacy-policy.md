@@ -1,14 +1,22 @@
-# Privacy Policy — Guild Ledger and Guild Ledger Premium
+# Privacy Policy — Jay Cee Software Studio
 
 _Last updated: 18 October 2026_
 
-Guild Ledger is a single-player guild-management game for Android, published by **Jay Cee Software** in two editions: **Guild Ledger** (free, with ads) and **Guild Ledger Premium** (paid, without ads). This policy says what each edition does with information about you. The short version: the game has no accounts, keeps your saved games on your device only, and never sends them anywhere. The free edition shows ads through Google AdMob, which handles advertising data as described below.
+Jay Cee Software Studio publishes apps and games for Android. This policy covers all of them. The first part states the rules every app follows; the second part says, app by app, exactly what each one does with information about you, because that is where the differences are. If an app you installed is not listed below, it is not ours.
 
-## What the game stores
+## The rules every app follows
 
-Your saved games and settings (difficulty, text size, sound, portrait style) are written to the app's private storage on your device. They are not uploaded, synchronised or backed up by us, and they are deleted when the app is uninstalled. The game does not ask for your name, email address or any other personal information, and does not use your contacts, location, camera, microphone or files.
+- **No accounts.** Our apps do not ask you to sign up or sign in, and do not ask for your name, email address or any other personal information.
+- **Your data stays on your device.** Anything an app saves (progress, settings) is written to the app's private storage on your device. We do not upload, synchronise or back it up, and uninstalling the app deletes it.
+- **No permissions we don't need.** Our apps do not use your contacts, location, camera, microphone or files. If an app needs network access, its section below says why.
+- **No selling of data.** We do not sell or rent information about you, and we do not collect anything beyond what each app's section states.
+- **Third parties, named.** Where an app includes a third party's software that handles data (for example an advertising network), its section names the party, lists what it may collect and links to that party's own policy.
 
-## Guild Ledger (free edition): advertising
+## Apps covered
+
+### Guild Ledger (free edition, with ads)
+
+Guild Ledger is a single-player guild-management game. Saved games and settings (difficulty, text size, sound, portrait style) stay on your device as described above.
 
 The free edition shows a full-screen advertisement now and then between game weeks. Ads are served by **Google AdMob**, a service of Google LLC. To serve and measure ads, the AdMob SDK may collect:
 
@@ -21,16 +29,18 @@ This information is sent to Google and used for advertising, including — where
 
 **Consent.** If you are in the European Economic Area, the United Kingdom, Switzerland or a US state with an applicable privacy law, the game asks for your choices the first time it runs, using Google's consent framework, and shows only non-personalised ads unless you consent to more. You can review or change those choices at any time under **Settings → Ads → Ad privacy options** in the game.
 
-**Children.** The free edition is not directed at children under 13, and we do not knowingly collect information from them. If you are a parent and believe a child has used the free edition, uninstalling it removes everything stored on the device; the advertising ID can be reset in Android's settings.
+### Guild Ledger Premium (paid edition)
 
-## Guild Ledger Premium (paid edition)
+The same game without advertising. It contains no advertising SDK, requests no network permission, and collects, stores or shares **no** personal information at all. Your purchase is handled by Google Play under Google's terms and privacy policy; we receive no personal details from it.
 
-The Premium edition contains no advertising SDK, requests no network permission, and collects, stores or shares **no** personal information at all. Your purchase is handled by Google Play under Google's terms and privacy policy; we receive no personal details from it.
+## Children
+
+Our apps are not directed at children under 13, and we do not knowingly collect information from them. If you are a parent and believe a child has used one of our apps, uninstalling it removes everything stored on the device; where an app shows ads, the advertising ID can be reset in Android's settings.
 
 ## Your rights
 
-Because the game holds no personal information about you, there is nothing for us to access, correct or delete on request; what the free edition shares with Google is governed by Google's policy and controls linked above. If you have a question about this policy, or believe something here is wrong, contact us at **jayceesoftware.studio@gmail.com**.
+Because our apps hold no personal information about you, there is nothing for us to access, correct or delete on request; what an ad-supported app shares with its advertising provider is governed by that provider's policy and controls, linked in the app's section above. If you have a question about this policy, or believe something here is wrong, contact us at **jayceesoftware.studio@gmail.com**.
 
 ## Changes
 
-If an edition starts collecting something this policy doesn't describe, the policy will be updated here before that version is released, with the date above changed.
+If an app starts collecting something this policy doesn't describe, or a new app is published, this page is updated before that version is released, with the date above changed.

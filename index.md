@@ -1,6 +1,12 @@
-# Guild Ledger
+# Jay Cee Software Studio
 
-A guild-management game for Android by Jay Cee Software, in two editions: Guild Ledger (free, with ads) and Guild Ledger Premium (paid, without ads).
+Apps and games for Android, made by one person.
 
-- [Privacy policy](privacy-policy)
+## Apps
+
+- **Guild Ledger** — run an adventurers' guild as a ledger: hire heroes, take contracts, keep the books, outlast the rival guilds. Two editions: Guild Ledger (free, with ads) and Guild Ledger Premium (paid, without ads).
+
+## Privacy and contact
+
+- [Privacy policy](privacy-policy) for every app we publish
 - Contact: jayceesoftware.studio@gmail.com
