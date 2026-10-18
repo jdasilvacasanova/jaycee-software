@@ -23,9 +23,10 @@ The free edition shows a full-screen advertisement now and then between game wee
 - your device's **advertising ID** (which you can reset or delete in your Android settings);
 - **device information** such as model, operating system version, language and screen size;
 - your **approximate location**, inferred from your IP address;
-- **ad interaction data**: which ads were shown, viewed or tapped.
+- **ad interaction data**: which ads were shown, viewed or tapped;
+- **diagnostic information** about the ads SDK itself, such as whether an ad loaded or failed.
 
-This information is sent to Google and used for advertising, including — where you have consented — personalised advertising, and for fraud prevention and measurement. Google's own policy describes it in full: [policies.google.com/technologies/ads](https://policies.google.com/technologies/ads). The free edition therefore needs network access; the game itself makes no other connection.
+This information is sent to Google and used for advertising, including — where you have consented — personalised advertising, for analytics and measurement, and for fraud prevention and security. Google's own policy describes it in full: [policies.google.com/technologies/ads](https://policies.google.com/technologies/ads). The free edition therefore needs network access; the game itself makes no other connection.
 
 **Consent.** If you are in the European Economic Area, the United Kingdom, Switzerland or a US state with an applicable privacy law, the game asks for your choices the first time it runs, using Google's consent framework, and shows only non-personalised ads unless you consent to more. You can review or change those choices at any time under **Settings → Ads → Ad privacy options** in the game.
 
