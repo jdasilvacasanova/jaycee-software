@@ -1,8 +1,8 @@
-# Privacy Policy — Jay Cee Software Studio
+# Privacy Policy — Jay Cee Software
 
 _Last updated: 18 October 2026_
 
-Jay Cee Software Studio publishes apps and games for Android. This policy covers all of them. The first part states the rules every app follows; the second part says, app by app, exactly what each one does with information about you, because that is where the differences are. If an app you installed is not listed below, it is not ours.
+Jay Cee Software publishes apps and games for Android. This policy covers all of them. The first part states the rules every app follows; the second part says, app by app, exactly what each one does with information about you, because that is where the differences are. If an app you installed is not listed below, it is not ours.
 
 ## The rules every app follows
 

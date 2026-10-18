@@ -1,4 +1,4 @@
-# Jay Cee Software Studio
+# Jay Cee Software
 
 Apps and games for Android, made by one person.
 
